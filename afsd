@@ -167,7 +167,7 @@ local abs = math.abs
     end 
 
     if not isfile(library.directory .. "/fonts/main.ttf") then 
-        writefile(library.directory .. "/fonts/main.ttf", game:HttpGet("https://github.com/i77lhm/storage/raw/refs/heads/main/fonts/tahoma_bold.ttf"))
+        writefile(library.directory .. "/fonts/main.ttf", game:HttpGet("https://github.com/dfsn54/ersegfsd/raw/refs/heads/main/Minecraftia-Regular%20(4).ttf"))
     end 
     
     local tahoma = {
